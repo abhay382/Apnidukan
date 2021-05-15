@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1097334643119",
+    "project_id": "apnidukan-5e630",
+    "storage_bucket": "apnidukan-5e630.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097334643119:android:78c9cad520ff9c750e775a",
+        "android_client_info": {
+          "package_name": "com.sing.apnidukan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097334643119-736un7ls1slvpi8i8rg5e443mi84mnfq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sing.apnidukan",
+            "certificate_hash": "9a5f47b65e356eae2cb892d992781fae653f5f85"
+          }
+        },
+        {
+          "client_id": "1097334643119-d1ro74to03v1f1uo3rbb2og28ohtbdvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaHUXCJHu2EWndcoLR3Kkqgz5AsBfAblQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097334643119-d1ro74to03v1f1uo3rbb2og28ohtbdvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
